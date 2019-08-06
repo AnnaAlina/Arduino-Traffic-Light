@@ -1,2 +1,2 @@
 # Arduino-Traffic-Light
-Arduino Uno traffic light project with pedestrian interrupt
+Arduino Uno traffic light with pedestrian interrupt
